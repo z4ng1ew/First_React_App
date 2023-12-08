@@ -1,0 +1,20 @@
+.box {
+position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 150px;
+  gap: 30px;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  padding-top:30px ;
+}
+.boxInput {
+}
+.boxButton {
+  width: 80px; 
+}

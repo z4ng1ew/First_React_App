@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    gap: 23px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
